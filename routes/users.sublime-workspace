@@ -1,0 +1,415 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"process"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"tablea",
+				"tableauQueJutilise"
+			],
+			[
+				"w",
+				"weatherIcon"
+			],
+			[
+				"q",
+				"querySelector"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"resu",
+				"resultat"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"col",
+				"col-xs-offset-1"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"name",
+				"nameCity"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"col-xs",
+				"col-xs-offset-1"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"col-",
+				"col-xs-offset-2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"package control",
+			"install",
+			"emmet"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/acpetit/Desktop/WCS/Hackathon/Hackathon#1/index.html",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/index.html",
+		"/Users/acpetit/Desktop/WCS/ATELIER_Node/learnyounode/exercises/baby_steps/exercise.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_Node/learnyounode/learnyounode.js",
+		"/Users/acpetit/Desktop/WCS/CHECKPOINT#1/site/css/style.css",
+		"/Users/acpetit/Desktop/WCS/CHECKPOINT#1/site/index.html",
+		"/Users/acpetit/Desktop/WCS/CHECKPOINT#1/site/img/sete-574450_1920.jpg",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex34.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex33.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex31.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex32.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex24.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex23.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex21.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex22.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex11.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex12.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex13.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex14.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/ex15.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/Exercices/index.html",
+		"/Users/acpetit/Desktop/WCS/ATELIER_JS/exercices.pdf",
+		"/Users/acpetit/Desktop/WCS/QUETE_BOOTSTRAP/sauron.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_BOOTSTRAP/style.css",
+		"/Users/acpetit/Desktop/WCS/QUETE_HTTP_REQUEST_JS/index.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_BOOTSTRAP/SpaceInvaderCSS.css",
+		"/Users/acpetit/Desktop/WCS/QUETE_BOOTSTRAP/WCS.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_HTTP_REQUEST_JS/untitled.html",
+		"/Users/acpetit/Downloads/Birthday-master/index.html",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/css/style.css",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/page_form.html",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/lesparisiens.html",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/lesrues.html",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/captcha.html",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/captacha.html",
+		"/Users/acpetit/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/index.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/patates.js",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/untitled.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/untitled.js",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/script.js",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/test.js",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/javascripting/dojo.js",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/var reponse= prompt('Do you like chocolate?');",
+		"/Users/acpetit/Desktop/WCS/QUETE_JAVASCRIPT/javascripting/introduction.js",
+		"/Users/acpetit/Desktop/WCS/CORRECTIONS/style.css",
+		"/Users/acpetit/Desktop/index.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/styleJ.css",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/untitledJ.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/style1.css",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/untitled.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/index.html",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/Carrousel/index.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/indexJ.html",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/Carrousel/style.css",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/:* WCS Paris Late 2017 Codingk8 Quête Page html cs",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/<!-- WCS Paris Late 2017 Codingk8 Quête Page html",
+		"/Users/acpetit/Desktop/WCS/QUETE_CSS/style.css",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/style.css",
+		"/Users/acpetit/Desktop/WCS/Projet#1/Projet1/js.js",
+		"/Users/acpetit/Desktop/WCS/Projet#1/index.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_HTML/index.html",
+		"/Users/acpetit/Desktop/WCS/QUETE_BOOTSTRAP/SpaceInvader2.html",
+		"/Users/acpetit/Desktop/WCS/Sans titre-1.html",
+		"/Users/acpetit/Desktop/WCS/ATELIER#1BOOTSTRAP/style.css",
+		"/Users/acpetit/Desktop/WCS/ATELIER_GIT/wild-link/same_file.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_GIT/wild-link/secret_file.js",
+		"/Users/acpetit/Desktop/WCS/ATELIER_GIT/wild-link/not_same_file.js",
+		"/Users/acpetit/Desktop/SITEWEB/index.html",
+		"/Users/acpetit/Downloads/clmystery-master/instructions",
+		"/Users/acpetit/Downloads/clmystery-master/hint8",
+		"/Users/acpetit/Downloads/clmystery-master/hint7",
+		"/Users/acpetit/Downloads/clmystery-master/hint6",
+		"/Users/acpetit/Downloads/clmystery-master/hint5",
+		"/Users/acpetit/Downloads/clmystery-master/hint3",
+		"/Users/acpetit/Downloads/clmystery-master/hint2",
+		"/Users/acpetit/Downloads/clmystery-master/hint1",
+		"/Users/acpetit/Downloads/clmystery-master/encoded",
+		"/Users/acpetit/clmystery/clmystery/README.md",
+		"/Users/acpetit/Desktop/intro-javascript/chapitre1/html/cours.html",
+		"/Users/acpetit/Desktop/intro-javascript/chapitre1/html/presentation",
+		"/Users/acpetit/Desktop/BOOTSTRAP/WCS.html",
+		"/Users/acpetit/Desktop/BOOTSTRAP/style.css",
+		"/Users/acpetit/Desktop/BOOTSTRAP/SpaceInvader2.html",
+		"/Users/acpetit/Desktop/BOOTSTRAP/SpaceInvaderCSS.css",
+		"/Users/acpetit/Desktop/BOOTSTRAP/WCS.css",
+		"/Users/acpetit/Desktop/BOOTSTRAP/index.html",
+		"/Users/acpetit/Desktop/BOOTSTRAP/spaceinvader.html",
+		"/Users/acpetit/Desktop/Cours HTML-CSS/index.html",
+		"/Users/acpetit/Downloads/bootstrap-3.3.7-dist/css/bootstrap-theme.css",
+		"/Users/acpetit/Desktop/WILDCIRCUS/index.html",
+		"/Users/acpetit/README/fichier_ressource",
+		"/Users/acpetit/README/CHALLENGE.md",
+		"/Users/acpetit/README/README.md",
+		"/Users/acpetit/README/README/ChallengeOdyssey/README.md",
+		"/Users/acpetit/Desktop/SUBLIMETEXT/index.html",
+		"/Users/acpetit/Desktop/SUBLIMETEXT/WildCircus.js",
+		"/Users/acpetit/Desktop/SUBLIMETEXT/test.html",
+		"/Users/acpetit/Desktop/SUBLIMETEXT/testPHP.php",
+		"/Users/acpetit/Desktop/SUBLIMETEXT/untitled"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 28.0
+	},
+	"pinned_build_system": "",
+	"project": "users.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
